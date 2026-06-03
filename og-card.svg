@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07111F"/>
+  <circle cx="180" cy="120" r="250" fill="#D7B46A" opacity="0.18"/>
+  <circle cx="1040" cy="150" r="300" fill="#69DCFF" opacity="0.12"/>
+  <rect x="72" y="76" width="1056" height="478" rx="42" fill="white" opacity="0.06" stroke="white" stroke-opacity="0.16"/>
+  <text x="112" y="230" fill="#F4CF78" font-family="Inter, Arial" font-size="36" font-weight="800" letter-spacing="4">LLQP LICENSED FINANCIAL PROFESSIONAL</text>
+  <text x="112" y="330" fill="#EFF6FF" font-family="Georgia, serif" font-size="72" font-weight="800">Adithya Srirangam</text>
+  <text x="112" y="405" fill="#AEBBD1" font-family="Inter, Arial" font-size="34" font-weight="500">Financial education, protection conversations, and business mentorship.</text>
+  <rect x="112" y="458" width="270" height="62" rx="31" fill="#D7B46A"/>
+  <text x="150" y="499" fill="#07111F" font-family="Inter, Arial" font-size="24" font-weight="900">Book Appointment</text>
+</svg>
